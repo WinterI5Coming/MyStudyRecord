@@ -1,0 +1,58 @@
+h1 {
+  font-size: 57px;
+  color: rgb(71, 62, 62);
+  margin: 12px 0;
+}
+
+#description {
+  margin-bottom: 36px;
+}
+
+/* header p {
+  margin-bottom: 36px;
+} */
+
+a {
+  padding: 12px 48px;
+  font-size: 24px;
+  background-color: rgb(167, 1, 78);
+  color: white;
+  border: 1px solid rgb(167, 1, 78);
+  border-radius: 4px;
+}
+
+a:hover {
+  background-color: rgb(180, 12, 90);
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+li {
+  font-family: "Fira-Sans", sans-serif;
+  font-size: 20px;
+  border-radius: 6px;
+  padding: 16px;
+  margin: 32px;
+  background-color: rgb(223, 136, 124);
+  color: rgb(71, 62, 62);
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(78, 13, 5);
+}
+
+main p {
+  margin: 12px;
+  color: rgb(71, 29, 22);
+}
+
+.highlight__goal {
+  background-color: rgb(226, 115, 101);
+}
